@@ -22,7 +22,7 @@ It really must be said, Abundance, by Ezra Klein and Eric Thompson, is not the m
 >
 >It reads, even to us, as too simple.
 
-This book is meant to be read, and read by everyone. It is no coincidence that a book like this would started a movement. This article is, in now way, a proper replacement for the actual book. So if you're reading this (especially [you](https://j-nac.github.io/2025/05/30/potential-buffer-overflows.html)) please actually read the book.
+This book is meant to be read, and read by everyone. It is no coincidence that a book like this has started a movement. This article is, in now way, a proper replacement for the actual book. So if you're reading this (especially [you](https://j-nac.github.io/2025/05/30/potential-buffer-overflows.html)) please actually read the book.
 
 With that out of the way, lets begin. The book has five large sections plus an open and end. These are: Introduction, Grow, Build, Govern, Invent, Deploy, and Conclusion. From here till otherwise noted, the points are from the book, with editorializing by me.
 
