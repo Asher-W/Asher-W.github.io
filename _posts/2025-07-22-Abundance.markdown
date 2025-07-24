@@ -75,5 +75,8 @@ We live now in a once in a generation era of political tummult. Right now and no
 
 We've done some things well. Where Trump failed to deliver infrastructure, biden succeeded. The CHIPS act, despite flaws, broke the american tradition of stagnation and restarted building. This continued with the inflation reduction act, another very successful stimulus for building. While Trump and the right are embrace scarcity, democrats are finally adopting the lens of abundance. We are in the middle of a painful path to full adoption, but we continue to shape our liberalism that builds.
 
+## A Few Thoughts
+Abundance really is a great book. There were so many more examples that didn't fit in this format but are very interesting to consider, including a deeper dive into California's rail problem and Reagan's terrible policies. It was worth the read, if just to be able to tell people what the book is actually about.
+
 ## Further Reading
 Right now, I am getting through the book [Goliath, by Matt Stoller](https://www.amazon.com/Goliath-100-Year-Between-Monopoly-Democracy/dp/1501183087?gQT=2). I'm not done yet, but what I've read is good, and I highly recommend taking a gander if you have some time to kill.
