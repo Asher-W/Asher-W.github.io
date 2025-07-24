@@ -5,7 +5,7 @@ date:   2025-07-22 23:32:00 +0000
 ---
 
 ## An Interesting Question
-A few days ago, my [friend](j-nac.github.io/blog) and I had a political conversation. He asked me whether it was depressing that the left, as it stands, advocates mostly to fix problems, rather than to make progress. At the time, I didn't have a great retort, but I've a few thoughts since that lend themselves to pring. Government, as I see it, has two core functions, to keep order and to encourage change.
+A few days ago, my [friend](https://j-nac.github.io/blog) and I had a political conversation. He asked me whether it was depressing that the left, as it stands, advocates mostly to fix problems, rather than to make progress. At the time, I didn't have a great retort, but I've a few thoughts since that lend themselves to pring. Government, as I see it, has two core functions, to keep order and to encourage change.
 
 ## The Easier Job
 The first issue we’ve largely “solved.” Government always uses the same sort of structured laws imposed by force, be it military or police, anywhere you look. Aside from a few niche instances, you rarely see groups agitating against the idea, just a specific blemish of its application. There are other ways to do it that could work, ie shaming or social pressures, but no one pushes for that. 
