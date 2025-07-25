@@ -37,7 +37,7 @@ Cities are extremely important to development. They gather the best minds to mak
 We build less homes per capita than most other countries, and what we build is absurdly expensive. In America, housing is an asset that makes up most of its owners' portfolio. To keep that cost up, owners screw the newcomer any way they can. Blue states specifically are uniquely intent on blocking housing development and ensuring what is built is built for the kind of people already there: that is to say, rich whites.
 
 ### Build
-Energy today has a clear winner. Fossil fuels kill with fumes that green energy never produces. Installing a wind or solar source comes with half the cost for energy over a lifetime compared to coal. Tack on nuclear and geothermal, and there is plenty of green energy to go around. We just need to build it.
+Energy today has a clear winner. Fossil fuels kill with fumes that green energy never produces. Installing a wind or solar source comes with half the cost for energy over a lifetime compared to coal. Tack on nuclear and geothermal, and there is plenty of good energy to go around. We just need to build it.
  
 States like California have tried to build infrastructure, but almost always fail. They fail hard, but they fail slowly, and they pay all the way into the grave. People sue or lobby, regulations have to be met, and government money comes with conditions. Instead of getting better rail, for instance, these costs ensure there is none. We don't trust our government, and it's killing progress.
 
