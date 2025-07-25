@@ -24,7 +24,7 @@ It really must be said, Abundance, by Ezra Klein and Eric Thompson, is not the m
 
 This book is meant to be read, and read by everyone. It is no coincidence that a book like this has started a movement. This article is, in no way, a proper replacement for the actual book. So if you're reading this, (especially [you](https://j-nac.github.io/2025/05/30/potential-buffer-overflows.html)) I'm begging you. Please actually read the book.
 
-With that out of the way, let's begin. The book has five large sections plus an intro and conclusion. These are: Introduction, Grow, Build, Govern, Invent, Deploy, and Conclusion. From here till otherwise noted, the points are from the book, though severely edited down.
+With that out of the way, let's begin. The book has five large sections plus an intro and conclusion. These are: Introduction, Grow, Build, Govern, Invent, Deploy, and Conclusion. From here until otherwise noted, the points are from the book, though severely edited down.
 
 ### Introduction
 The point of the book is simple, and they say it many times. Society is not broken, at least not in the traditional sense. Scarcity is a choice that we have made, and it is a decision we can change. 
