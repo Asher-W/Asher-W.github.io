@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Watchmen and Learned Helplessness"
+title:  "Why Zack, Why?"
 date:   2025-07-22 22:00:00 +0000
 ---
