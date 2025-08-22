@@ -1,0 +1,4 @@
+I’m at the end of the rope, and the noose keeps tightening, and I feel like I’m dying, but I have to keep trying. I try to run, but my feet find air. I claw at my throat and pray to god to let me go, but the noose keeps tightening and I keep dying. My neck is bloody and bruised, but I can’t stop pulling, and the noose won’t stop tightening. It pulls tighter and tighter, and then…
+A wet snap rushes through the square, heard only by an audience of one: the corpse hanging on the rope. And the corpse doesn’t claw, the corpse doesn’t pray. The corpse is content just to swing from the gallows, a lesson to those who dare to try, until the hangman takes it down and throws it in a ditch with all the other failures.
+
+God casts our mortal die and tells our story, and it would be inane to look him in the eye and ask for more, but what else should I do? How do I content myself with misery?
